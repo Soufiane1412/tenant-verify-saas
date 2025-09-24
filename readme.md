@@ -29,11 +29,11 @@ Multi-tenant AI-powered verification platform for European estate agencies. Proc
 - **Railway/Fly.io** - Production deployment
 
 ## 🏗 Architecture
-├── API Gateway (FastAPI)
-├── Tenant Isolation Layer
-├── Verification Pipeline
-├── Document Storage (S3)
-└── Per-tenant Data (PostgreSQL)
+- API Gateway (FastAPI)
+- Tenant Isolation Layer
+- Verification Pipeline
+- Document Storage (S3)
+- Per-tenant Data (PostgreSQL)
 
 ## 🎯 Business Metrics Target
 - 3 paying estate agencies by Week 4
